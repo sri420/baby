@@ -1,0 +1,15 @@
+management:
+  security:
+    enabled: false
+
+      
+info:
+  app:
+    name: demoservice
+    description: hello
+  
+      
+      
+spring:
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss             

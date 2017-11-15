@@ -67,4 +67,5 @@
 
 		</plugins>
 	</build>
+	<description>hello</description>
 </project>
